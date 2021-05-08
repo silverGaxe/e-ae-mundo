@@ -1,0 +1,4 @@
+    Olá.
+    Eu sou SilverGaxe e meu objetivo é desenvolver aplicações úteis na vida das pessoas, por hora estou apenas estudando e me dedicando a aprender as memlhores formas de atingir meu objetivo.
+    Então irei subir aqui os códigos usados em meus estudos para que outros estudantes possam aprender ainda que śo um pouco com eles.
+Até a próxima.
